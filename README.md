@@ -1,4 +1,4 @@
-# MyMovieLab
+# MyMovieLab🎥
 
 MyMovieLab is a modern web application built with Flask backend and designed for movie enthusiasts who want to catalog, rate, and review movies. It integrates a relational database (MySQL) to persist user data and movie info, and provides RESTful APIs to facilitate interaction with the frontend.
 
