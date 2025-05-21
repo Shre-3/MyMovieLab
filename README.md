@@ -8,7 +8,7 @@ MyMovieLab is a modern web application built with Flask backend and designed for
 - Movie search by title, genre, or year  
 - Add, edit, and delete favorite movies  
 - Rate and review movies with star ratings and comments  
-- Responsive and clean UI (can be paired with React or vanilla HTML templates)  
+- Responsive and clean UI
 - RESTful API design for extensibility  
 - Secure password hashing and session management  
 
